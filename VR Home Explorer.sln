@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Home Explorer.CSharp.Plugins", "VR Home Explorer.CSharp.Plugins.csproj", "{8B8D8E6E-C983-D0D0-C29C-00851F29BD69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Home Explorer.CSharp", "VR Home Explorer.CSharp.csproj", "{4EDCC144-EB2F-BCD7-CDC6-FCC59DFD32BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Home Explorer.CSharp.Editor", "VR Home Explorer.CSharp.Editor.csproj", "{FF65F9C0-91C1-9535-5904-64E632CE1820}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B8D8E6E-C983-D0D0-C29C-00851F29BD69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B8D8E6E-C983-D0D0-C29C-00851F29BD69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B8D8E6E-C983-D0D0-C29C-00851F29BD69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B8D8E6E-C983-D0D0-C29C-00851F29BD69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EDCC144-EB2F-BCD7-CDC6-FCC59DFD32BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EDCC144-EB2F-BCD7-CDC6-FCC59DFD32BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EDCC144-EB2F-BCD7-CDC6-FCC59DFD32BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EDCC144-EB2F-BCD7-CDC6-FCC59DFD32BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF65F9C0-91C1-9535-5904-64E632CE1820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF65F9C0-91C1-9535-5904-64E632CE1820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF65F9C0-91C1-9535-5904-64E632CE1820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF65F9C0-91C1-9535-5904-64E632CE1820}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
